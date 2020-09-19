@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Randi",
+      "alamat": "Malang",
+      "umur": 25,
+      "wa": "081934644920"
+    },
+    {
+      "id": 2,
+      "nama": "Dimas",
+      "alamat": "Malang",
+      "umur": 20,
+      "wa": "081934644880"
+    },
+    {
+      "id": 3,
+      "nama": "Ledy",
+      "alamat": "Jakarta",
+      "umur": 12,
+      "wa": "081934644999"
+    },
+    {
+      "id": 4,
+      "nama": "Arif",
+      "alamat": "Lumajang",
+      "umur": 25,
+      "wa": "081934644920"
+    },
+    {
+      "id": 5,
+      "nama": "Sandos",
+      "alamat": "Surabaya",
+      "umur": 20,
+      "wa": "081934644880"
+    },
+    {
+      "id": 6,
+      "nama": "Fiki",
+      "alamat": "Jakarta",
+      "umur": 12,
+      "wa": "081934644999"
+    },
+    {
+      "id": 7,
+      "nama": "Rudi",
+      "alamat": "Bandung",
+      "umur": 25,
+      "wa": "081934644920"
+    },
+    {
+      "id": 8,
+      "nama": "Siti",
+      "alamat": "Pasuruan",
+      "umur": 20,
+      "wa": "081934644880"
+    },
+    {
+      "id": 9,
+      "nama": "Adi",
+      "alamat": "Sidoarjo",
+      "umur": 12,
+      "wa": "081934644999"
+    },
+    {
+      "id": 10,
+      "nama": "Alex",
+      "alamat": "Semarang",
+      "umur": 25,
+      "wa": "081934644920"
+    },
+    {
+      "id": 11,
+      "nama": "Ani",
+      "alamat": "Solo",
+      "umur": 20,
+      "wa": "081934644880"
+    },
+    {
+      "id": 12,
+      "nama": "Dina",
+      "alamat": "Medan",
+      "umur": 12,
+      "wa": "081934644999"
+    }
+  ]
+}
